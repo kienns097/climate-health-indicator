@@ -8,10 +8,10 @@ We develop a novel text-based indicator of national climate change policy ambiti
 
 ## Repository Structure
 
-- `ClimateHealthIndicator.ipynb`: Main notebook with code for data processing, indicator construction, and analysis
-- `data/`: Folder with processed datasets
-- `outputs/`: Graphs and summary results
-- `README.md`: This file
+- script/ClimateHealthIndicator.ipynb: Jupyter notebook containing the full workflow — data processing, indicator construction, machine learning models, and statistical analysis.
+- data/: Directory containing the cleaned and processed datasets used in the analysis.
+- script/: Folder containing the main notebook and any associated script files.
+- README.md: This file.
 
 ## How to Reproduce
 
